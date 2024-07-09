@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ObdLogApi
+build_property.ProjectDir = C:\omg\OBD2-Car-Communication\OBDLogService\ObdLogApi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
